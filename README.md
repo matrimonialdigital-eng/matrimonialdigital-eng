@@ -1,82 +1,63 @@
-<!-- Replace YOUR_USERNAME everywhere -->
+<h1>👋 Hi, I'm Digital</h1>
 
-<h1 align="center">Hi 👋, I'm Digital</h1>
-<h3 align="center">Full-Stack Developer (React + Backend)</h3>
+📍 **Bangladesh** | 🤖 **Full‑Stack Builder (React + Backend)** | 🚀 **Web App & API Developer**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=React+Developer;Backend+with+Node.js;Building+Modern+Web+Apps;Learning+Every+Day" />
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLI-000000?style=flat&logo=windowsterminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web-0A66C2?style=flat&logo=googlechrome&logoColor=white" />
+</p>
+
+> Deep in build mode — crafting modern **React frontends**, **Node.js backends**, and practical developer‑friendly systems.
+> Learning by shipping, improving by building real products.
+
+🔗 **matrimonialdigital.com** (in progress) — full‑stack matrimonial platform with auth, dashboards & admin tools.
+
+---
+
+## 🚧 Current Projects
+
+* 💍 **Matrimonial Platform** — React, Tailwind, Node.js, MySQL
+* 🔐 **Authentication System** — JWT, roles, protected APIs
+* 📊 **Admin Dashboard** — analytics & user management
+* 🛠️ **Reusable APIs** — pagination, search, validation
+* 🧪 **CLI Utilities** — small dev productivity tools
+
+---
+
+## 📊 GitHub Activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=matrimonialdigital-eng&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matrimonialdigital-eng&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🔥 What I'm Doing
 
-* 💻 I build **modern web apps** with React on frontend
-* ⚙️ Backend experience with **Node.js, Express, MySQL/MongoDB**
-* 🎨 Love clean UI, animations & performance
-* 🌱 Currently improving **Full-Stack & System Design**
-* 🌍 From **Bangladesh 🇧🇩**
-
----
-
-## 🧠 Tech Stack
-
-### 🎨 Frontend
-
-* React
-* Vite
-* Tailwind CSS
-* Framer Motion
-* JavaScript (ES6+)
-
-### ⚙️ Backend
-
-* Node.js
-* Express.js
-* REST API
-* MySQL
-* MongoDB
-
-### 🛠 Tools
-
-* Git & GitHub
-* VS Code
-* Postman
-* Figma (basic)
+* Building **production‑ready full‑stack apps**
+* Improving backend structure & security
+* Leveling up React performance & UX
+* Learning system design fundamentals
 
 ---
 
-## 📊 GitHub Stats
+## 🔗 Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 🔥 Current Focus
-
-* Building **Full-Stack portfolio projects**
-* Advanced React patterns
-* Backend performance & security
-
----
-
-## 🧩 Featured Projects
-
-* 🎯 **Photography Portfolio** – React + Tailwind
-* 🔐 **Auth System** – Node.js + MySQL
-* 📊 **Dashboard** – REST API + Charts
-
----
-
-## 📫 Connect With Me
-
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/matrimonialdigital-eng)
+* GitHub: [https://github.com/matrimonialdigital-eng](https://github.com/matrimonialdigital-eng)
+* Website: [https://matrimonialdigital.com](https://matrimonialdigital.com)
 * Facebook: your_facebook_link
 * Email: [your_email@example.com](mailto:your_email@example.com)
 
 ---
 
-⭐️ *Feel free to check my repositories and give a star if you like my work!*
+> **"Build fast. Learn faster. Ship real things."**
+
+⭐ Follow along — more projects coming soon 🚀
